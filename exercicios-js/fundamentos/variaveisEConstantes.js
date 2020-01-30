@@ -14,3 +14,12 @@ console.log(a, b)
 const c = 5
 
 console.log(a, b, c)
+console.log(1  + 2)
+
+let qualquer = "qualquer"
+
+console.log(qualquer)
+
+console.log(typeof qualquer)
+
+console.log(typeof c)
