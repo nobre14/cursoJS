@@ -15,7 +15,8 @@ const contatenacao = 'ola ' + nome + '!'
 
 console.log(contatenacao)
 
-const template = `
+//crase
+const template = ` 
 Olá 
 ${nome} !`
 
